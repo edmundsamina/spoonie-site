@@ -1,1 +1,24 @@
 /* this will be the spoon column css */
+.column-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+    flex-direction: column;
+    background-color: aquamarine;
+    width: 300px;
+    height: 600px;
+}
+
+.spoon-number{
+    background-color: rgb(90, 33, 33);
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.cards-container{
+    background-color: rgb(90, 33, 33);
+    height: 70%;
+    width: 90%;
+}
