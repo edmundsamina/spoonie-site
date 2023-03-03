@@ -1,11 +1,11 @@
-import './App.css';
-import SpoonColumn from './components/spoonColumn/spoonColumn';
+import "./App.css";
+import SpoonColumn from "./components/spoonColumn/spoonColumn";
 
 function App() {
   return (
     <div className="App">
-    <h1>Lani is the best</h1>
-    <SpoonColumn/>
+      <h1>Amina is the best</h1>
+      <SpoonColumn />
     </div>
   );
 }
